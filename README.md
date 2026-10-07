@@ -59,4 +59,4 @@ The test set was also used as validation data during training, so reported accur
 
 ## Author
 
-**Aayush Silwal**: [GitHub](https://github.com/aayush505)
+**Aayush Silwal**
